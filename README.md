@@ -84,6 +84,7 @@ print('Mean Squared Error (MSE):', mse)
 
 GIVEN DATA:
 AUGMENTED DICKEY-FULLER TEST:
+
 ![image](https://github.com/user-attachments/assets/a4254eba-38c3-41eb-86ac-d85080b959ff)
 
 PACF - ACF
