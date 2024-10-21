@@ -4,7 +4,7 @@
 
 
 ### AIM:
-To Implementat an Auto Regressive Model using Python in 
+To Implementat an Auto Regressive Model using Python in Gold Price Prediction.
 ### ALGORITHM:
 1. Import necessary libraries
 2. Read the CSV file into a DataFrame
@@ -82,19 +82,18 @@ print('Mean Squared Error (MSE):', mse)
 ```
 ### OUTPUT:
 
-GIVEN DATA:
-AUGMENTED DICKEY-FULLER TEST:
+## GIVEN DATA:
+## AUGMENTED DICKEY-FULLER TEST:
 
 ![image](https://github.com/user-attachments/assets/a4254eba-38c3-41eb-86ac-d85080b959ff)
 
-PACF - ACF
+## PACF - ACF
 ![image](https://github.com/user-attachments/assets/9f58d032-0220-46a6-abb0-dcdfe460f731)
 ![image](https://github.com/user-attachments/assets/c1536afe-c8f8-419f-abdf-82c216b53641)
 
 
-PREDICTION
-
-FINIAL PREDICTION
+## PREDICTION
+## FINIAL PREDICTION
 ![image](https://github.com/user-attachments/assets/87d153a5-cd3d-403c-b460-67b58bdcbc49)
 
 
